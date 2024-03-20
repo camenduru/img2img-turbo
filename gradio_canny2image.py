@@ -75,4 +75,4 @@ if __name__ == "__main__":
         )
 
     demo.queue()
-    demo.launch(debug=True, share=False)
+    demo.launch(debug=True, share=True)
